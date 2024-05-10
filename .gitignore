@@ -6,6 +6,7 @@
 *.user
 *.vcxproj
 *.filters
+debug
 # Compiled Object files
 *.slo
 *.lo
